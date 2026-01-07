@@ -1,6 +1,6 @@
-🚕 Uber Trip Data – GPS & Billing Consistency Analysis
+🚕 NYC Yellow Taxi trip records (NYC TLC) – GPS & Billing Consistency Analysis
 
-This project analyzes NYC Yellow Taxi (Uber) trip data published by the NYC Taxi & Limousine Commission to identify inconsistencies between GPS-recorded distance and customer billing.
+This project analyzes NYC Yellow Taxi trip data published by the NYC Taxi & Limousine Commission to identify inconsistencies between GPS-recorded distance and customer billing.
 The goal is to understand how missing or incorrect telemetry (GPS data) can impact revenue reporting, customer billing, and operational metrics.
 
 📂 Dataset
